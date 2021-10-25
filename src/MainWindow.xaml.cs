@@ -64,7 +64,7 @@ namespace gas
             }
         }
 
-        private int Row = 7, Column = 8;
+        private int Row = 8, Column = 8;
 
         const int SquareSize = 20;
         const int health = 12;
